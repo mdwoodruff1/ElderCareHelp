@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c25f284f9f3cae7f438c5d71c64f6943"
+        "md5": "4d1b5c4b8e70391c0a884c13c4f6136d"
     },
     {
         "path": "assets",
@@ -82,12 +82,12 @@
     {
         "path": "/authors/michael-woodruff/index.html",
         "type": "file",
-        "md5": "95b4b6c1429c9ac5e24949f882b003d8"
+        "md5": "c134d24bc616dc99ca51fe28683dca38"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c3a445323bbeb54cbae7880b6d3bfb30"
+        "md5": "b33a1c2a3f357d84019607088159bd1e"
     },
     {
         "path": "media",
@@ -257,12 +257,12 @@
     {
         "path": "patient-details-2.html",
         "type": "file",
-        "md5": "b49f37ca9aaa68c417ec44b54142ae2b"
+        "md5": "4452796a73d1e8739883f9ea3c77aabe"
     },
     {
         "path": "professional-claim.html",
         "type": "file",
-        "md5": "7056ab10e887c66b42a0bb7d059d2390"
+        "md5": "c1b65c0bd3505da25225f5d94d659048"
     },
     {
         "path": "robots.txt",
@@ -277,11 +277,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "4196b5a256a25ac962c5749fc2b2b63a"
+        "md5": "89c76262242d505d0d5eb96b720d656e"
     },
     {
         "path": "visitor-checkin.html",
         "type": "file",
-        "md5": "480f0f7b9c54ced21f58fe266747fdc1"
+        "md5": "ab96ee37f0b0de36deffc2d2210a2d29"
     }
 ]
