@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "4d1b5c4b8e70391c0a884c13c4f6136d"
+        "md5": "3bb42504e27b5460dc0f338c0943e19c"
     },
     {
         "path": "assets",
@@ -17,17 +17,22 @@
     {
         "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "4202808df745f2ac7ab250606fa0d272"
+        "md5": "767b319828e5783ce6a2090f7de205bb"
     },
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+        "md5": "9b822c009a4495b18d6565096890f23e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "16dc73b926c33763cc3ba89eac832f4b"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+        "md5": "53bc8fb04067f2e4f7d843aca1d0bf83"
     },
     {
         "path": "assets/dynamic",
@@ -40,24 +45,44 @@
         "md5": false
     },
     {
+        "path": "/assets/js/html-contents.js",
+        "type": "file",
+        "md5": "65e696bc3422a9d96e4809d6461f18d2"
+    },
+    {
+        "path": "/assets/js/html-contents.min.js",
+        "type": "file",
+        "md5": "169077c370ab8ca62b029845f80f7fd5"
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+        "md5": "1fbf01dc976d1dd52f2a6ca87781dfb6"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "700105c316933a8202041b6415abb233"
+        "md5": "4fce2b30433039b19e7a444fe8ab80b7"
     },
     {
         "path": "/assets/js/svg-fix.js",
         "type": "file",
-        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
     },
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+        "md5": "07ad1bc03d374fcda29810c04c4ffe84"
     },
     {
         "path": "assets/svg",
@@ -65,9 +90,19 @@
         "md5": false
     },
     {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+        "md5": "fe3d9049ae8c6a7d96968d66cc0d4591"
     },
     {
         "path": "authors",
@@ -82,12 +117,12 @@
     {
         "path": "/authors/michael-woodruff/index.html",
         "type": "file",
-        "md5": "c134d24bc616dc99ca51fe28683dca38"
+        "md5": "957670fd73a9ed3b37a436be4bd32395"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b33a1c2a3f357d84019607088159bd1e"
+        "md5": "4c2538da8a483611e871e370f810cc63"
     },
     {
         "path": "media",
@@ -125,34 +160,19 @@
         "md5": false
     },
     {
-        "path": "/media/posts/2/responsive/PatientDetails-2xl.png",
-        "type": "file",
-        "md5": "44397ca9294fa8781452a94bbb069a64"
-    },
-    {
-        "path": "/media/posts/2/responsive/PatientDetails-lg.png",
-        "type": "file",
-        "md5": "30a8cf8d4c232d9df8338998e5d0b922"
-    },
-    {
         "path": "/media/posts/2/responsive/PatientDetails-md.png",
-        "type": "file",
-        "md5": "ae96c08a549ab76563697d168ef125ef"
-    },
-    {
-        "path": "/media/posts/2/responsive/PatientDetails-sm.png",
         "type": "file",
         "md5": "76809314b26379b452c812a5921a54e8"
     },
     {
-        "path": "/media/posts/2/responsive/PatientDetails-xl.png",
+        "path": "/media/posts/2/responsive/PatientDetails-sm.png",
         "type": "file",
-        "md5": "f1020578cdcfed92301893f4f0a620b6"
+        "md5": "011a1618381d9da603d9f276fb74b3f5"
     },
     {
         "path": "/media/posts/2/responsive/PatientDetails-xs.png",
         "type": "file",
-        "md5": "4c995543329e97dbae398db6a2b6f14c"
+        "md5": "68c6a28088bf69f15e767a6c0cf52e4a"
     },
     {
         "path": "media/posts/3",
@@ -165,34 +185,19 @@
         "md5": false
     },
     {
-        "path": "/media/posts/3/responsive/VisitorCheckin-2xl.png",
-        "type": "file",
-        "md5": "ceacf6dc17a2f25c8ec59fe0810260c9"
-    },
-    {
-        "path": "/media/posts/3/responsive/VisitorCheckin-lg.png",
-        "type": "file",
-        "md5": "44872c43d4e1fbf18c92a72c873634d2"
-    },
-    {
         "path": "/media/posts/3/responsive/VisitorCheckin-md.png",
-        "type": "file",
-        "md5": "498a8ab3c74b0aea050f0aa108403732"
-    },
-    {
-        "path": "/media/posts/3/responsive/VisitorCheckin-sm.png",
         "type": "file",
         "md5": "8efa394360ac6a83baae604665c3e4f8"
     },
     {
-        "path": "/media/posts/3/responsive/VisitorCheckin-xl.png",
+        "path": "/media/posts/3/responsive/VisitorCheckin-sm.png",
         "type": "file",
-        "md5": "0ff6dec7447d1791bbe0bb8c387b02b4"
+        "md5": "a9df24560bf1c245a69d5446196f56ba"
     },
     {
         "path": "/media/posts/3/responsive/VisitorCheckin-xs.png",
         "type": "file",
-        "md5": "75f77d1daba1acd3301c15defd452c63"
+        "md5": "4335dd5dd886c59907b2e17e64e02d47"
     },
     {
         "path": "/media/posts/3/VisitorCheckin.png",
@@ -215,34 +220,49 @@
         "md5": false
     },
     {
-        "path": "/media/posts/4/responsive/ProfessionalClaim-2xl.png",
-        "type": "file",
-        "md5": "79ec7a3d99d5b687e9c727df6a46e9f0"
-    },
-    {
-        "path": "/media/posts/4/responsive/ProfessionalClaim-lg.png",
-        "type": "file",
-        "md5": "02fe48a0001f96a9d3b459d6448451cb"
-    },
-    {
         "path": "/media/posts/4/responsive/ProfessionalClaim-md.png",
-        "type": "file",
-        "md5": "3c75b3850556d108ea3cc60d9b0e607a"
-    },
-    {
-        "path": "/media/posts/4/responsive/ProfessionalClaim-sm.png",
         "type": "file",
         "md5": "106ec84bc39cba542d84b29eddf6118d"
     },
     {
-        "path": "/media/posts/4/responsive/ProfessionalClaim-xl.png",
+        "path": "/media/posts/4/responsive/ProfessionalClaim-sm.png",
         "type": "file",
-        "md5": "bbbd5c83ff2556473823f6f26dc50988"
+        "md5": "047b4a1e987120a255e1034165442b2b"
     },
     {
         "path": "/media/posts/4/responsive/ProfessionalClaim-xs.png",
         "type": "file",
-        "md5": "9f02a1ff2a10f954f90e7c2fca4720c0"
+        "md5": "2f829f01febf1bfeab5084c3c0547ee2"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/PatientDemographics.png",
+        "type": "file",
+        "md5": "12e998b7492d79d9060b6445f8352f2a"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/PatientDemographics-md.png",
+        "type": "file",
+        "md5": "b4cf8eae17565d3972081a8c0835b49d"
+    },
+    {
+        "path": "/media/posts/5/responsive/PatientDemographics-sm.png",
+        "type": "file",
+        "md5": "f2cfb4e2b37da4a309b141d2919ffbed"
+    },
+    {
+        "path": "/media/posts/5/responsive/PatientDemographics-xs.png",
+        "type": "file",
+        "md5": "cd7e6f92ef11bf68a418b1d412d97192"
     },
     {
         "path": "media/tags",
@@ -255,14 +275,39 @@
         "md5": false
     },
     {
-        "path": "patient-details-2.html",
-        "type": "file",
-        "md5": "4452796a73d1e8739883f9ea3c77aabe"
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "professional-claim.html",
+        "path": "patient-demographics",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/patient-demographics/index.html",
         "type": "file",
-        "md5": "c1b65c0bd3505da25225f5d94d659048"
+        "md5": "9d5f5e80bb2cb96f9b77d88396a8011a"
+    },
+    {
+        "path": "patient-details-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/patient-details-2/index.html",
+        "type": "file",
+        "md5": "c07c67d731504323a164b77f64b6f1ba"
+    },
+    {
+        "path": "professional-claim",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/professional-claim/index.html",
+        "type": "file",
+        "md5": "92fc8fda0502cd4abd8b125374af86b0"
     },
     {
         "path": "robots.txt",
@@ -277,11 +322,16 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "89c76262242d505d0d5eb96b720d656e"
+        "md5": "802394cc0903b7661642c84fa96b843a"
     },
     {
-        "path": "visitor-checkin.html",
+        "path": "visitor-checkin",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/visitor-checkin/index.html",
         "type": "file",
-        "md5": "ab96ee37f0b0de36deffc2d2210a2d29"
+        "md5": "cc4e8b2259115fc12b4084810f6afedd"
     }
 ]
