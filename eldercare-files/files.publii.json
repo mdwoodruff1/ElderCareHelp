@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "308660d3240981de32d29d54101ff0d1"
+        "md5": "1528a07bb60bdee353bea73b28417371"
     },
     {
         "path": "assessments",
@@ -12,7 +12,7 @@
     {
         "path": "/assessments/index.html",
         "type": "file",
-        "md5": "c322cd561d8677216a60bd55c4524f24"
+        "md5": "621eb7f6fdbd64459d05773afc430d91"
     },
     {
         "path": "assets",
@@ -37,7 +37,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "3551c9a4b67ac5f35e174b0bf34ab67f"
+        "md5": "672d7b44e9f04f555c7ca4615b630ea2"
     },
     {
         "path": "assets/dynamic",
@@ -102,7 +102,127 @@
     {
         "path": "/authors/michael-woodruff/index.html",
         "type": "file",
-        "md5": "fb84120342cf092ba23d0819e0ea9e5d"
+        "md5": "8e190b323e396fa8d33f6bcb5cb663c4"
+    },
+    {
+        "path": "dashboard-admissions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-admissions/index.html",
+        "type": "file",
+        "md5": "1e5a65392d12cc2ea19619669b033199"
+    },
+    {
+        "path": "dashboard-assessments",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-assessments/index.html",
+        "type": "file",
+        "md5": "1f9f4400b1a059073ec559b835348651"
+    },
+    {
+        "path": "dashboard-authorizations",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-authorizations/index.html",
+        "type": "file",
+        "md5": "ed1aa847e1e1051ed2a53fa59b080943"
+    },
+    {
+        "path": "dashboard-claims",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-claims/index.html",
+        "type": "file",
+        "md5": "7e566318be3866c4de35bbf037d5403e"
+    },
+    {
+        "path": "dashboard-daily-meetings",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-daily-meetings/index.html",
+        "type": "file",
+        "md5": "67df5cec282720185b88f259db245a18"
+    },
+    {
+        "path": "dashboard-demographics",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-demographics/index.html",
+        "type": "file",
+        "md5": "3f5e5fb5821be75777dcc42091052b80"
+    },
+    {
+        "path": "dashboard-enrollments",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-enrollments/index.html",
+        "type": "file",
+        "md5": "62534b0edee21e9be99597dd069f0a54"
+    },
+    {
+        "path": "dashboard-financial",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-financial/index.html",
+        "type": "file",
+        "md5": "b7c7bb7b3682f029b09d6ec6726b6065"
+    },
+    {
+        "path": "dashboard-intake",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-intake/index.html",
+        "type": "file",
+        "md5": "64b4aefbb3503fb2d7afe15de192bd69"
+    },
+    {
+        "path": "dashboard-metrics",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-metrics/index.html",
+        "type": "file",
+        "md5": "02d86c0b102987e3f3d92d6a95eba709"
+    },
+    {
+        "path": "dashboard-transportation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboard-transportation/index.html",
+        "type": "file",
+        "md5": "cb72be6fc13a974e7aa860557c18dad8"
+    },
+    {
+        "path": "dashboards",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/dashboards/index.html",
+        "type": "file",
+        "md5": "5222bc891d211ce550616cc57bd2b60a"
     },
     {
         "path": "day-center-days",
@@ -112,12 +232,12 @@
     {
         "path": "/day-center-days/index.html",
         "type": "file",
-        "md5": "458f9967dcc0cd13e9a1d9eea5b9f2bb"
+        "md5": "63a5694c911cd5d8cd8fd6e264812708"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a2fe5d1f05e04d8d9f14f6ac0f8b6d36"
+        "md5": "efcb17e4673456f6ed48036602ab4cb8"
     },
     {
         "path": "media",
@@ -282,7 +402,7 @@
     {
         "path": "/patient-demographics/index.html",
         "type": "file",
-        "md5": "d5cd23c6390d7a28e643f1dd1058651d"
+        "md5": "faa7c8756f37b5cda27464b40e7d6ed8"
     },
     {
         "path": "patient-details-2",
@@ -292,7 +412,7 @@
     {
         "path": "/patient-details-2/index.html",
         "type": "file",
-        "md5": "149c49ff42f435c37d38fe4ce6e79a96"
+        "md5": "2a60d9656b336934ee24ef6504b98686"
     },
     {
         "path": "professional-claim",
@@ -302,7 +422,7 @@
     {
         "path": "/professional-claim/index.html",
         "type": "file",
-        "md5": "cb00c13919b61c5bbafc1c780aa50585"
+        "md5": "2007a72d6c1959e2de053c3a61586843"
     },
     {
         "path": "robots.txt",
@@ -317,7 +437,7 @@
     {
         "path": "/scheduling/index.html",
         "type": "file",
-        "md5": "abb2d51ecda1cff8f04948caf87bd6ab"
+        "md5": "5d0db51e066865e247135ca68a9053e7"
     },
     {
         "path": "tags",
@@ -327,7 +447,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "bd654e36ffa6db33605609d67c63d57c"
+        "md5": "a380b4950660a67e3584eee0d176c12a"
     },
     {
         "path": "visitor-checkin",
@@ -337,6 +457,6 @@
     {
         "path": "/visitor-checkin/index.html",
         "type": "file",
-        "md5": "9d097b30daff08eecc9bf25fed06dfbd"
+        "md5": "c204a793e524529b2cb3202fabd12c51"
     }
 ]
