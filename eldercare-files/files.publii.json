@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "1528a07bb60bdee353bea73b28417371"
+        "md5": "cfb09c9ee84f85a97c07627e180fcea9"
     },
     {
         "path": "assessments",
@@ -12,7 +12,7 @@
     {
         "path": "/assessments/index.html",
         "type": "file",
-        "md5": "621eb7f6fdbd64459d05773afc430d91"
+        "md5": "eef33e4b756102937c3b11c3c6b7b134"
     },
     {
         "path": "assets",
@@ -102,7 +102,77 @@
     {
         "path": "/authors/michael-woodruff/index.html",
         "type": "file",
-        "md5": "8e190b323e396fa8d33f6bcb5cb663c4"
+        "md5": "001eba263008378e85ef2f74a6489836"
+    },
+    {
+        "path": "claims",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/claims/index.html",
+        "type": "file",
+        "md5": "551d21606edace18488481b3565206d8"
+    },
+    {
+        "path": "claims-dental",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/claims-dental/index.html",
+        "type": "file",
+        "md5": "9979beaf286801de067eafd26fb2f1a3"
+    },
+    {
+        "path": "claims-institutional",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/claims-institutional/index.html",
+        "type": "file",
+        "md5": "10ff4db5728307bf7baa4ffb4a40d5d9"
+    },
+    {
+        "path": "claims-invoice",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/claims-invoice/index.html",
+        "type": "file",
+        "md5": "8478bce990c715797d81b1f6f5a9e27b"
+    },
+    {
+        "path": "claims-payment",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/claims-payment/index.html",
+        "type": "file",
+        "md5": "4c76dac5e5072a656e608a1171739470"
+    },
+    {
+        "path": "claims-pending",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/claims-pending/index.html",
+        "type": "file",
+        "md5": "29f38e9ca48200efc3b9277944a55fff"
+    },
+    {
+        "path": "claims-professional",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/claims-professional/index.html",
+        "type": "file",
+        "md5": "24e09e4cafa0b84f258f2c8f65beb1ad"
     },
     {
         "path": "dashboard-admissions",
@@ -112,7 +182,7 @@
     {
         "path": "/dashboard-admissions/index.html",
         "type": "file",
-        "md5": "1e5a65392d12cc2ea19619669b033199"
+        "md5": "ee61fb9159c4bf0f803faf591edd5721"
     },
     {
         "path": "dashboard-assessments",
@@ -122,7 +192,7 @@
     {
         "path": "/dashboard-assessments/index.html",
         "type": "file",
-        "md5": "1f9f4400b1a059073ec559b835348651"
+        "md5": "fd01de3a0867d80ae484e7fb6edd9866"
     },
     {
         "path": "dashboard-authorizations",
@@ -132,7 +202,7 @@
     {
         "path": "/dashboard-authorizations/index.html",
         "type": "file",
-        "md5": "ed1aa847e1e1051ed2a53fa59b080943"
+        "md5": "5a299e76c855461f39a86f5c70e6e8cc"
     },
     {
         "path": "dashboard-claims",
@@ -142,7 +212,7 @@
     {
         "path": "/dashboard-claims/index.html",
         "type": "file",
-        "md5": "7e566318be3866c4de35bbf037d5403e"
+        "md5": "fb5d98f1f8ea2d6d50221271f564ca5f"
     },
     {
         "path": "dashboard-daily-meetings",
@@ -152,7 +222,7 @@
     {
         "path": "/dashboard-daily-meetings/index.html",
         "type": "file",
-        "md5": "67df5cec282720185b88f259db245a18"
+        "md5": "d99923cc1cf93178108c47ea1e8ba960"
     },
     {
         "path": "dashboard-demographics",
@@ -162,7 +232,7 @@
     {
         "path": "/dashboard-demographics/index.html",
         "type": "file",
-        "md5": "3f5e5fb5821be75777dcc42091052b80"
+        "md5": "fbec4b289273a830cd6ab3581d0b5180"
     },
     {
         "path": "dashboard-enrollments",
@@ -172,7 +242,7 @@
     {
         "path": "/dashboard-enrollments/index.html",
         "type": "file",
-        "md5": "62534b0edee21e9be99597dd069f0a54"
+        "md5": "6b6f00d9d3da48ceda813bd53906a2e7"
     },
     {
         "path": "dashboard-financial",
@@ -182,7 +252,7 @@
     {
         "path": "/dashboard-financial/index.html",
         "type": "file",
-        "md5": "b7c7bb7b3682f029b09d6ec6726b6065"
+        "md5": "db945281c1ac8277ec79f42c8e758c2a"
     },
     {
         "path": "dashboard-intake",
@@ -192,7 +262,7 @@
     {
         "path": "/dashboard-intake/index.html",
         "type": "file",
-        "md5": "64b4aefbb3503fb2d7afe15de192bd69"
+        "md5": "7391b9253932323b7e5be7465d5cefa9"
     },
     {
         "path": "dashboard-metrics",
@@ -202,7 +272,7 @@
     {
         "path": "/dashboard-metrics/index.html",
         "type": "file",
-        "md5": "02d86c0b102987e3f3d92d6a95eba709"
+        "md5": "f48d7c3921d8514a1b3646a4bbfa6868"
     },
     {
         "path": "dashboard-transportation",
@@ -212,7 +282,7 @@
     {
         "path": "/dashboard-transportation/index.html",
         "type": "file",
-        "md5": "cb72be6fc13a974e7aa860557c18dad8"
+        "md5": "7c62b0aab88fe53dcad9928ed329169f"
     },
     {
         "path": "dashboards",
@@ -222,7 +292,7 @@
     {
         "path": "/dashboards/index.html",
         "type": "file",
-        "md5": "5222bc891d211ce550616cc57bd2b60a"
+        "md5": "0833d58f0559c81eb70cd9feeddbefe3"
     },
     {
         "path": "day-center-days",
@@ -232,12 +302,12 @@
     {
         "path": "/day-center-days/index.html",
         "type": "file",
-        "md5": "63a5694c911cd5d8cd8fd6e264812708"
+        "md5": "d8e11e6c75c51f97e39cc318fe3baa36"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "efcb17e4673456f6ed48036602ab4cb8"
+        "md5": "308d4f3fd11f41afc784ae1bbfb96268"
     },
     {
         "path": "media",
@@ -320,36 +390,6 @@
         "md5": "58c570138a7e2d65b180eb1c64311235"
     },
     {
-        "path": "media/posts/4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/4/ProfessionalClaim.png",
-        "type": "file",
-        "md5": "90bf28d863d090d4e2187f74ce40f435"
-    },
-    {
-        "path": "media/posts/4/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/4/responsive/ProfessionalClaim-md.png",
-        "type": "file",
-        "md5": "106ec84bc39cba542d84b29eddf6118d"
-    },
-    {
-        "path": "/media/posts/4/responsive/ProfessionalClaim-sm.png",
-        "type": "file",
-        "md5": "047b4a1e987120a255e1034165442b2b"
-    },
-    {
-        "path": "/media/posts/4/responsive/ProfessionalClaim-xs.png",
-        "type": "file",
-        "md5": "2f829f01febf1bfeab5084c3c0547ee2"
-    },
-    {
         "path": "media/posts/5",
         "type": "directory",
         "md5": false
@@ -402,7 +442,7 @@
     {
         "path": "/patient-demographics/index.html",
         "type": "file",
-        "md5": "faa7c8756f37b5cda27464b40e7d6ed8"
+        "md5": "01760177e1ae5b0fe97a8ae7369915cf"
     },
     {
         "path": "patient-details-2",
@@ -412,17 +452,7 @@
     {
         "path": "/patient-details-2/index.html",
         "type": "file",
-        "md5": "2a60d9656b336934ee24ef6504b98686"
-    },
-    {
-        "path": "professional-claim",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/professional-claim/index.html",
-        "type": "file",
-        "md5": "2007a72d6c1959e2de053c3a61586843"
+        "md5": "a8f75ba85c36730860a69ef067f82499"
     },
     {
         "path": "robots.txt",
@@ -437,7 +467,7 @@
     {
         "path": "/scheduling/index.html",
         "type": "file",
-        "md5": "5d0db51e066865e247135ca68a9053e7"
+        "md5": "3b20efaa0c40ff8b4830721363371574"
     },
     {
         "path": "tags",
@@ -447,7 +477,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "a380b4950660a67e3584eee0d176c12a"
+        "md5": "249efc925de5edc61165c9686ab451e8"
     },
     {
         "path": "visitor-checkin",
@@ -457,6 +487,6 @@
     {
         "path": "/visitor-checkin/index.html",
         "type": "file",
-        "md5": "c204a793e524529b2cb3202fabd12c51"
+        "md5": "8c83cecdc4ea536a747ee4544d802f80"
     }
 ]
