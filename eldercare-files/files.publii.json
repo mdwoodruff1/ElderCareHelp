@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3bb42504e27b5460dc0f338c0943e19c"
+        "md5": "2dcc675283a700684b86d82f15bc0878"
     },
     {
         "path": "assets",
@@ -17,22 +17,17 @@
     {
         "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "767b319828e5783ce6a2090f7de205bb"
+        "md5": "b15540b0ef346aeed2b206ddb6a7e66e"
     },
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "9b822c009a4495b18d6565096890f23e"
-    },
-    {
-        "path": "/assets/css/photoswipe.css",
-        "type": "file",
-        "md5": "16dc73b926c33763cc3ba89eac832f4b"
+        "md5": "b01fc57a88f8ed9e6eb77316dfc28db1"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "53bc8fb04067f2e4f7d843aca1d0bf83"
+        "md5": "19a30a72e52c7bb1e5308eac825889a4"
     },
     {
         "path": "assets/dynamic",
@@ -55,16 +50,6 @@
         "md5": "169077c370ab8ca62b029845f80f7fd5"
     },
     {
-        "path": "/assets/js/photoswipe-ui-default.min.js",
-        "type": "file",
-        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
-    },
-    {
-        "path": "/assets/js/photoswipe.min.js",
-        "type": "file",
-        "md5": "017385b552f7e0d979e2e2fe6f324015"
-    },
-    {
         "path": "/assets/js/scripts.js",
         "type": "file",
         "md5": "1fbf01dc976d1dd52f2a6ca87781dfb6"
@@ -82,7 +67,7 @@
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "07ad1bc03d374fcda29810c04c4ffe84"
+        "md5": "1c00c0aaad8e827c465881c29b3bfd6b"
     },
     {
         "path": "assets/svg",
@@ -90,19 +75,9 @@
         "md5": false
     },
     {
-        "path": "/assets/svg/gallery-icons-dark.svg",
-        "type": "file",
-        "md5": "0c70735af58190b563b2940b7a07007a"
-    },
-    {
-        "path": "/assets/svg/gallery-icons-light.svg",
-        "type": "file",
-        "md5": "0bb1f41e2e459d23628833c37d8532f0"
-    },
-    {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "fe3d9049ae8c6a7d96968d66cc0d4591"
+        "md5": "f77c2f5667948e53c11bd69162f04b5d"
     },
     {
         "path": "authors",
@@ -117,12 +92,12 @@
     {
         "path": "/authors/michael-woodruff/index.html",
         "type": "file",
-        "md5": "957670fd73a9ed3b37a436be4bd32395"
+        "md5": "eb0fc25b0cf0e3278d181552f162795b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4c2538da8a483611e871e370f810cc63"
+        "md5": "1e8349c5f61c4c827d8249f6cf202904"
     },
     {
         "path": "media",
@@ -287,7 +262,7 @@
     {
         "path": "/patient-demographics/index.html",
         "type": "file",
-        "md5": "9d5f5e80bb2cb96f9b77d88396a8011a"
+        "md5": "4f6b38f3f8328314de40622b434ad15d"
     },
     {
         "path": "patient-details-2",
@@ -297,7 +272,7 @@
     {
         "path": "/patient-details-2/index.html",
         "type": "file",
-        "md5": "c07c67d731504323a164b77f64b6f1ba"
+        "md5": "6a2a4d9b2ef27b39fa31c8c941da6a0f"
     },
     {
         "path": "professional-claim",
@@ -307,7 +282,7 @@
     {
         "path": "/professional-claim/index.html",
         "type": "file",
-        "md5": "92fc8fda0502cd4abd8b125374af86b0"
+        "md5": "d833da995d018a644f6f4b99a3faa40a"
     },
     {
         "path": "robots.txt",
@@ -322,7 +297,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "802394cc0903b7661642c84fa96b843a"
+        "md5": "0dc46b02ad7b16f814fbc1a94f8a1168"
     },
     {
         "path": "visitor-checkin",
@@ -332,6 +307,6 @@
     {
         "path": "/visitor-checkin/index.html",
         "type": "file",
-        "md5": "cc4e8b2259115fc12b4084810f6afedd"
+        "md5": "5dadc478d21417a9ebd3e3c0c3a95c49"
     }
 ]
